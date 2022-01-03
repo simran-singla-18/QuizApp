@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660646518383",
+    "project_id": "indianquizapp-1e774",
+    "storage_bucket": "indianquizapp-1e774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660646518383:android:2d583894ce3e54805c379a",
+        "android_client_info": {
+          "package_name": "com.example.indianquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660646518383-h6uaacpvag1ersujceisv23jef5rmfuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNVile1s9RQ3ZhjnmpuF9g_4AxT2lQjfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660646518383-h6uaacpvag1ersujceisv23jef5rmfuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
